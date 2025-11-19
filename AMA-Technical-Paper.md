@@ -64,7 +64,7 @@
 
     - Occupy full width by default
 
-    - Examples: <div>, <p>, <h1>, <section>
+    - Examples: ` <div>, <p>, <h1>, <section> `
 
 - Inline Elements:
 
