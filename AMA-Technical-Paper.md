@@ -72,7 +72,7 @@
 
     - Occupy only the width they need
 
-    - Examples: <span>, <a>, <strong>
+    - Examples: ` <span>, <a>, <strong> `
 
 - Simple Example:
 
