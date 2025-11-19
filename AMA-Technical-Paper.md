@@ -147,7 +147,7 @@
 
 ``` sql
     SELECT * FROM employees
-    WHERE name LIKE 'AM%';   ' Names starting with A '
+    WHERE name LIKE 'AM%';   ' Names starting with AM '
 ```
 
 ---
