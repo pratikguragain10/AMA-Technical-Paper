@@ -101,11 +101,11 @@
             return func()
         return wrapper
 
-@logger
-def greet():
-    print("Hello")
+    @logger
+    def greet():
+        print("Hello")
 
-greet()
+    greet()
 ```
 
 - Real-Life Example:
